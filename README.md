@@ -1,4 +1,4 @@
-# 🪄 Gemini VTuber Controller (Rita 專案)
+# 🪄 Rita Ai Vtuber 
 
 這是一個結合 Google Gemini AI 與 VTube Studio 的自動化控制程式。透過此程式，你可以讓 AI 角色「Rita」擁有聽覺、視覺與語音表達能力，並自動觸發 VTube Studio 中的模型動作。
 
