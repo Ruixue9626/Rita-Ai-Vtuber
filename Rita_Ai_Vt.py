@@ -54,7 +54,7 @@ PERSONA_DESCRIPTION = """
 TTS_VOICE = "zh-TW-HsiaoChenNeural" # 推薦: zh-TW-HsiaoChenNeural (女), zh-TW-YunJheNeural (男)
 TTS_RATE = "+20%"                    # 語速: "+20%" 變快, "-20%" 變慢
 TTS_PITCH = "+40Hz"                 # 音調: "+20Hz" 變高(更可愛), "-10Hz" 變低
-MEMORY_FILE = r"C:\Users\User\Desktop\py\Ai Vt\memory.txt"         # 記憶檔案路徑
+MEMORY_FILE = "memory.txt"         # 記憶檔案路徑
 
 # VTube Studio 內建參數列表 (Input Parameter IDs)
 VTS_PARAMETER_IDS = {
@@ -585,3 +585,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
