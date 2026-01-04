@@ -27,7 +27,7 @@
 請在終端機 (Terminal) 或 CMD 執行以下指令安裝所需套件：
 
 ```bash
-pip install pyvts google-genai edge-tts pygame SpeechRecognition keyboard pyaudio
+pip install requirements.txt
 ```
 
 > **注意**: `pyaudio` 在某些 Windows 環境下可能需要額外編譯工具。如果安裝失敗，可嘗試下載對應版本的 `.whl` 檔案安裝，或使用 `pipwin install pyaudio`。
