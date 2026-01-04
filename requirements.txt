@@ -1,0 +1,7 @@
+
+pyvts
+google-generativeai
+edge-tts
+pygame
+SpeechRecognition
+pyaudio
