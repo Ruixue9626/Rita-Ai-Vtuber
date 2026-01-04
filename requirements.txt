@@ -1,7 +1,7 @@
-
 pyvts
-google-generativeai
+google-genai
 edge-tts
 pygame
 SpeechRecognition
+keyboard
 pyaudio
